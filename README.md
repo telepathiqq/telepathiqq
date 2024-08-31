@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🌱 I'm currently learning C++
+- 🏛️ I'm a first-year Computer Engineering student at Ateneo de Naga University.
+
 <!--
 **telepathiqq/telepathiqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
