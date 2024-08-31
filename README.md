@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi there, I'm Thad! 👋
 
-- 🌱 I'm currently learning C++
+- 🌱 I'm currently learning C++, Python, and JavaScript.
 - 🏛️ I'm a first-year Computer Engineering student at Ateneo de Naga University.
+- 😄 Pronouns: he/him
+
 
 <!--
 **telepathiqq/telepathiqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
